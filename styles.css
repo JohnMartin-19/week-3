@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(2, 2, 2);
+}
+
+img {
+    padding: 10px;
+}
+
+.mburu {
+    background-color: black;
+    background-image: url(../images/Background/c_image.jpg);
+}
+
+.john {
+    background-image: url(../images/Background/h_img.jpg);
+    text-decoration-color: blanchedalmond;
+}
+
+.martin {
+    background-image: url(../images/Background/s_image.jpg);
+}
+
+.toggle-showing {
+    display: none;
+}
+
+.clickable:hover {
+    cursor: pointer;
+    color: #0088cc;
+}
+
+.clickable:hover {
+    text-decoration: underline;
+}
+
+.card {
+    background-color: rgb(15, 15, 15);
+}
+
+#label {
+    padding: 50px;
+}
+
+#merian {
+    height: 250px;
+    width: 250px;
+}
+
+#port {
+    height: 250px;
+    width: 250px;
+}
+
+header {
+    display: flex;
+    height: 60px;
+    background-color: rgb(241, 240, 240);
+}
